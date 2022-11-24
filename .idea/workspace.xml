@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c51de16-ba92-46b5-b007-796c2e72f615" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/src/main/java/vlakno4/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vlakno2/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vlakno2/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vlakno4/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vlakno4/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +132,9 @@
       <updated>1669233862777</updated>
       <workItem from="1669233864031" duration="2930000" />
       <workItem from="1669289466704" duration="84000" />
-      <workItem from="1669311002023" duration="4438000" />
+      <workItem from="1669311002023" duration="4715000" />
+      <workItem from="1669324084321" duration="610000" />
+      <workItem from="1669324933129" duration="694000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1669237043258</created>
@@ -149,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669320338900</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=".">
+      <created>1669323349603</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669323349603</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
